@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlisaPemvis
+</name>
+</assembly>
+<members>
+<member name="T:AlisaPemvis.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources._383de0cdfd99a0dc1edb98e2481b8468">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources._johnlewis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.copyright">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.download__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.download__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.download__31_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.download__32_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.gambar_about_as">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.gambarClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.GambarProfil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.Gubi_TS_Round_Coffee_Table_in_Gold_Tan__Size_Small__21_7_Diameter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.kasur3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.kasur4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.kursi3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.kursi4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.Langue_Bar_Chair___Leather___Rust_21002___Light_Smoked_Beech___75_cm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.lemari3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.lemari4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.meja3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.meja4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.promo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.sale">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.Screenshot_2024_05_15_160855">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.Ukuran_Lemari_Pakaian_Minimalis_Pintu_3__Update_Terlengkap_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AlisaPemvis.My.Resources.Resources.Unique_Kitchen___Dining_Room_Furniture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

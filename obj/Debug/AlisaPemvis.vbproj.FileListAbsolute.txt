@@ -1,0 +1,129 @@
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\bin\Debug\AlisaPemvis.exe.config
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\bin\Debug\AlisaPemvis.exe
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\bin\Debug\AlisaPemvis.pdb
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\bin\Debug\AlisaPemvis.xml
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.AssemblyReference.cache
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.Form1.resources
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.Resources.resources
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.GenerateResource.cache
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.CoreCompileInputs.cache
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.exe
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.xml
+D:\Pratikum\PemVis\Praktikum1\AlisaPemvis\obj\Debug\AlisaPemvis.pdb
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.exe.config
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.exe
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.pdb
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.xml
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.Resources.resources
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.exe
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.xml
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.pdb
+C:\Users\ASUS\Downloads\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormAdmin.resources
+D:\Pratikum\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.exe.config
+D:\Pratikum\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.exe
+D:\Pratikum\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.pdb
+D:\Pratikum\AlisaPemvis\AlisaPemvis\bin\Debug\AlisaPemvis.xml
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.AssemblyReference.cache
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormAdmin.resources
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.Resources.resources
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.GenerateResource.cache
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.CoreCompileInputs.cache
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.exe
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.xml
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.pdb
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.formUtama.resources
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormLogin.resources
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormCustomer.resources
+D:\Pratikum\AlisaPemvis\AlisaPemvis\bin\Debug\mysql.data.dll
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPem.07D4CA93.Up2Date
+D:\Pratikum\AlisaPemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormRegist.resources
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.exe.config
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.exe
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.pdb
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.xml
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormAdmin.resources
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormCustomer.resources
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormLogin.resources
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormRegist.resources
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.formUtama.resources
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.Resources.resources
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPem.07D4CA93.Up2Date
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.exe
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.xml
+C:\Users\ASUS\Downloads\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.pdb
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.exe.config
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.exe
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.pdb
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\bin\Debug\AlisaPemvis.xml
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\bin\Debug\mysql.data.dll
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.AssemblyReference.cache
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormAdmin.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormCustomer.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormLogin.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormProduk.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormRegist.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.formUtama.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.Resources.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.GenerateResource.cache
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.CoreCompileInputs.cache
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPem.07D4CA93.Up2Date
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.exe
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.xml
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.pdb
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormMain.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormLemari.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormMeja1.resources
+D:\PaPemvis\AlisaPemvis5\AlisaPemvis\obj\Debug\AlisaPemvis.FormTransaksi.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.AssemblyReference.cache
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.exe
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.xml
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.pdb
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormAdmin.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormCustomer.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormLemari.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormLogin.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormMain.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormMeja1.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormProduk.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormRegist.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.FormTransaksi.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.formUtama.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.Resources.resources
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.GenerateResource.cache
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.CoreCompileInputs.cache
+D:\pa pemvis\AlisaPemvis\bin\Debug\AlisaPemvis.exe.config
+D:\pa pemvis\AlisaPemvis\bin\Debug\AlisaPemvis.exe
+D:\pa pemvis\AlisaPemvis\bin\Debug\AlisaPemvis.pdb
+D:\pa pemvis\AlisaPemvis\bin\Debug\AlisaPemvis.xml
+D:\pa pemvis\AlisaPemvis\obj\Debug\AlisaPem.07D4CA93.Up2Date
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\bin\Debug\AlisaPemvis.exe.config
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\bin\Debug\AlisaPemvis.exe
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\bin\Debug\AlisaPemvis.pdb
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\bin\Debug\AlisaPemvis.xml
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormAdmin.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormCustomer.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormLemari.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormLogin.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormMain.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormMeja1.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormProduk.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormRegist.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormTransaksi.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.formUtama.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.Resources.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPem.07D4CA93.Up2Date
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.exe
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.xml
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.pdb
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormKursi2.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormLemari2.resources
+C:\Users\ASUS\Downloads\AlisaPemvis (4)\AlisaPemvis\obj\Debug\AlisaPemvis.FormLemari3.resources
